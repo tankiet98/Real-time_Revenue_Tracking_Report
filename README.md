@@ -1,4 +1,4 @@
-### **Real-time Tracking Report**
+### **Real-time Revenue Tracking Report**
 
 - Purpose:
     - Gain a holistic perspective on the business's annual performance with this comprehensive tracking report.
