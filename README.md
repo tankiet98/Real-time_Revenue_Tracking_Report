@@ -11,4 +11,4 @@
 
 - To access the report: https://docs.google.com/spreadsheets/d/1ylXOLIlfQwqwp6ayYM0uxG46xC62Brixhft5ToABfcI/edit#gid=598395962
 
-- To acess the Google Slides presentation slides: 
+- To acess the Google Slides presentation: 
