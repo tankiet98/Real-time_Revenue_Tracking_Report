@@ -11,4 +11,4 @@
 
 - To access the report: https://docs.google.com/spreadsheets/d/1ylXOLIlfQwqwp6ayYM0uxG46xC62Brixhft5ToABfcI/edit#gid=598395962
 
-- To acess the Google Slides presentation: 
+- To acess the Real-time Tracking Report Document: https://docs.google.com/document/d/1Df5ZyY9-x0YWcY_p3K3fHvgI_CJS0ADQutuOOtQ03A0 
