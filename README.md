@@ -9,38 +9,38 @@
   trends and growth opportunities while facilitating a holistic understanding of customer loyalty dynamics.
 
 - Key Tasks:
-
+  
   1. Data Processing and Cleaing:
- 
-  - Convert and pre-process both dummy and Kaggle datasets to ensure compatibility.
-  - Implement robust data cleaning procedures to maintain data intergrity and reliability.
- 
+     - Convert and pre-process both dummy and Kaggle datasets to ensure compatibility.
+     - Implement robust data cleaning procedures to maintain data intergrity and reliability.
+     
   2. Layout Designing for Tracking Purpose:
- 
-  - Design and intuitive and user-friendly layout for the real-time report, optimizing tracking capabilities.
-  - Create a dynamic interface that allows managers easily navigate and interpret critical performance metrics.
- 
-  3. Financial Metrics Add-on:
+     
+     - Design and intuitive and user-friendly layout for the real-time report, optimizing tracking capabilities.
+     - Create a dynamic interface that allows managers easily navigate and interpret critical performance metrics.
 
-  - Define finance metrics tailored to the business's needs, enabling managers to track and analyze financial
-    aspects.
-  - Implement the selected metrics within the real-time report for continuous monitoring and assessment.
+  4. Financial Metrics Add-on:
 
-  4. Retention Rate Analysis:
+     - Define finance metrics tailored to the business's needs, enabling managers to track and analyze financial
+       aspects.
+     - Implement the selected metrics within the real-time report for continuous monitoring and assessment.
 
-  - Conduct a comprehensive analysis of retention rates to understand customer loyalty dynamics.
-  - Visualize retention trends over time, providng insights for strategic decision-making.
- 
-  5. Customer Ranking Logic (FRM):
+  5. Retention Rate Analysis:
 
-  - Develop a basic Frequency, Recency, Monetary (FRM) logic to rank customers based on their historical behavior.
-  - Implement a straightforward ranking system to categorize customers, facilitating targeted engagement
-    strategies. 
+     - Conduct a comprehensive analysis of retention rates to understand customer loyalty dynamics.
+     - Visualize retention trends over time, providng insights for strategic decision-making.
 
-  6. Stores Yearly Performance Calculation:
+  6. Customer Ranking Logic (FRM):
+     
+     - Develop a basic Frequency, Recency, Monetary (FRM) logic to rank customers based on their historical
+       behavior.
+     - Implement a straightforward ranking system to categorize customers, facilitating targeted engagement
+       strategies.
 
-  - Implement month-by-month comparisions to identify trends, strengths, and areas for improvement in store
-    performance tracking
+  8. Stores Yearly Performance Calculation:
+
+     - Implement month-by-month comparisions to identify trends, strengths, and areas for improvement in store
+       performance tracking
 
 - Database: Kaggle + Dummy data
 
